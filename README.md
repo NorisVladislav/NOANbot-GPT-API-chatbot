@@ -17,7 +17,7 @@ Tkinter: Tkinter este o bibliotecă standard Python utilizată pentru crearea in
 
 OpenAI GPT-3.5 Turbo: Acest cod utilizează serviciul GPT-3.5 Turbo oferit de OpenAI. Asigurați-vă că aveți acces la API-ul OpenAI și că ați configurat cheia API corespunzătoare.
 
-##INSTALRE
+##INSTALARE
 
 Copiați codul într-un fișier Python.
 Configurați cheia API OpenAI înlocuind șirul de caractere "API KEY" în openai.api_key = "API KEY" cu cheia API reală.
