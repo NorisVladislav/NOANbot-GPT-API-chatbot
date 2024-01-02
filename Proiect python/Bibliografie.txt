@@ -1,0 +1,29 @@
+1. How to Install vscode on Ubuntu
+https://phoenixnap.com/kb/install-vscode-ubuntu
+
+2. Installing OpenAI on Linux
+https://subscription.packtpub.com/book/data/9781788398060/10/ch10lvl1sec70/installing-openai-on-linux-ubuntu-14-04-or-16-04
+
+3. User is not in the sudoers file
+https://www.reddit.com/r/linux4noobs/comments/y7cr34/user_is_not_in_the_sudoers_file_error_after/
+
+4. Ubuntu new user login but username@ does not exist
+https://stackoverflow.com/questions/61746041/ubuntu-new-user-login-but-username-does-not-exist
+
+5. How to use install modules on linux ubuntu?
+https://stackoverflow.com/questions/53489538/how-to-use-install-modules-on-linux-ubuntu
+
+6. How to Fix “Username is not in the sudoers file. This incident will be reported” in Ubuntu
+https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
+
+7. How do I install a Python module for use on Linux systems at SEAS?
+https://cets.seas.upenn.edu/answers/install-python-module.html
+
+8. PIP Install OpenAI not working -- Unable to locate Package
+https://www.linode.com/community/questions/24511/pip-install-openai-not-working-unable-to-locate-package
+
+9. ChatGPT API keys
+https://platform.openai.com/api-keys
+
+
+
