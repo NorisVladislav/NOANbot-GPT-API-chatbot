@@ -57,6 +57,6 @@ class NOANbotInterface:
         self.window.mainloop()
  
 if __name__ == "__main__":
-    openai.api_key = "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"
+    openai.api_key = "YOUR API KEY"
     interface = NOANbotInterface()
     interface.run()
