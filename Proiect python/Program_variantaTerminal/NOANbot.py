@@ -2,7 +2,7 @@ import openai
 import os
  
 #API key
-openai.api_key = "g"
+openai.api_key = "YOUR API KEY"
  
 def chatbot():
   # Creeare lista stocare mesaje
