@@ -34,7 +34,3 @@ Răspunsul NOANbot va fi afișat în zona de conversație.
 Clasa NOANbotInterface administrează GUI Tkinter și gestionează interacțiunile utilizatorului.
 Metoda send_message trimite inputul utilizatorului la modelul OpenAI GPT-3.5 Turbo și afișează răspunsurile în zona de conversație.
 Metoda display_message formatează și afișează mesajele în fereastra de chat.
-
-##NOTE
-Asigurați-vă că cheia API OpenAI este păstrată confidențial și nu este distribuită public.
-Acest cod este un exemplu de bază și poate fi extins pentru cazuri de utilizare mai complexe sau integrate în alte aplicații.
