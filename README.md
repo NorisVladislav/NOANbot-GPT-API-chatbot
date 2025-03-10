@@ -47,9 +47,6 @@ The following Python libraries are required to run this project:
 
 2. Install the required Python libraries if they are not already installed:
 
-bash
-Copy
-Edit
 pip install openai
 
 3. Set up your OpenAI API key:
