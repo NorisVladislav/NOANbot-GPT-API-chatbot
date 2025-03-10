@@ -1,4 +1,3 @@
-# PCLP3-FinalProject
 # README for NOANbot Interface
 
 This documentation provides an overview of the NOANbotInterface code, a user-friendly interface that allows interaction with the OpenAI GPT-3.5 Turbo model through the OpenAI API, utilizing Tkinter for the graphical user interface (GUI).
