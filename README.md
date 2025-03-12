@@ -128,7 +128,7 @@ This project has been tested on a **Linux virtual machine (VM)**. The steps belo
 
 ![VM Setup](images/5Virtual_machine.png)  
 ![Running in Linux VM](images/8Sudo.png)  
-![Running in Linux VM](images/10Sudo.png) 
+![Running in Linux VM](images/9Sudo.png) 
 ![Running in Linux VM](images/11.png) 
 
 ## CODE STRUCTURE
