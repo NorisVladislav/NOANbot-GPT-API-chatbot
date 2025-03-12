@@ -8,8 +8,9 @@ The **NOANbotInterface** is designed to provide a simple chat interface between 
 
 This project utilizes **Tkinter**, Python's built-in library for creating GUIs, and **OpenAI's GPT-3.5 Turbo API** for natural language processing. The interface is intuitive, featuring a text entry field for user input and a chat display area for model responses.
 
+![Block Diagram](images/aa.png) 
 ![Image](Proiect python/PrtSC Functionalitate program/6NAONbot_GUI(1).png)
-![Image](Proiect python/PrtSC Functionalitate program/6NAONbot_GUI(1).png)
+![Image](Proiect python/PrtSC Functionalitate program/6NAONbot_GUI(2).png)
 
 ## SYSTEM REQUIREMENTS
 
