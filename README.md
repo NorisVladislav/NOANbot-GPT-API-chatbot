@@ -58,6 +58,8 @@ The following Python libraries are required to run this project:
 
 3. Set up your OpenAI API key:
 
+![API](images/1API.png) 
+
    - Go to OpenAI's API page and sign up or log in to your OpenAI account. Obtain your API key from the dashboard.
    - Open the script and replace `"YOUR_API_KEY"` with your actual OpenAI API key:
 
@@ -124,8 +126,10 @@ This project has been tested on a **Linux virtual machine (VM)**. The steps belo
    python noanbot_interface.py
    ```
 
-![VM Setup](images/vm_setup.png)  
-![Running in Linux VM](images/linux_vm.png)  
+![VM Setup](images/5Virtual_machine.png)  
+![Running in Linux VM](images/8Sudo.png)  
+![Running in Linux VM](images/10Sudo.png) 
+![Running in Linux VM](images/11.png) 
 
 ## CODE STRUCTURE
 
@@ -160,4 +164,6 @@ It initializes the GUI components, handles user inputs, and updates the conversa
 - **No API Key**: Ensure that the API key is correctly set in the script. If the key is missing or incorrect, you will receive an error when attempting to connect to the API.
 - **Tkinter Errors**: If Tkinter is not installed, you may encounter an ImportError. Ensure Tkinter is installed using your system’s package manager or by reinstalling Python with Tkinter support.
 - **OpenAI API Errors**: If you receive errors related to the OpenAI API (e.g., quota exceeded, invalid API key), check your API key and review your OpenAI account's usage and limits.
+
+ ![Error](images/11.png) 
 
